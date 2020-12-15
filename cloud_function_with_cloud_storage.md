@@ -226,6 +226,6 @@ Good news!
 
 Final words, this tutorial is based on the cloud function to load files in bucket into Bigquery, as this is a less expensive and event-driven process, so this is just a demonstration, for real project we just need to focus on the logic that we need to implement.
 
-If you think this has helped you a bit, that would be enough!!!
+If you think this has helped you a bit, that would be enough!!! You could find this full blog [here](https://github.com/lugq1990/sharing_blogs/blob/main/cloud_function_with_cloud_storage.md)
 
 If you would love to learn more about GCP hands-on in Python, please check my [Github repo](https://github.com/lugq1990/GCP_tutorial). Hope Python coding.
